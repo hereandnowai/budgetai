@@ -1,0 +1,6 @@
+{
+  "name": "BudgetAI",
+  "description": "An intelligent budgeting and financial forecasting application leveraging AI to provide insights, automate budget creation, and analyze scenarios.",
+  "requestFramePermissions": [],
+  "prompt": ""
+}
